@@ -1,0 +1,63 @@
+body{
+  background-image: url(bg.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.hey{
+  text-align: center;
+}
+.create{
+  margin-left: 50px;
+}
+form{
+  margin-left: 500px;
+  align-self:center;
+  text-align:center;
+  width: 390px;
+  height: 420px;
+  padding: 80px;
+  background-color: coral;
+  box-shadow: 8px 8px 3px 3px lightblue inset;
+  margin-top: 10px;
+}
+.form_control{
+  margin-top: 8px;
+  margin-left: 13px;
+  margin-right: 28px;
+}
+#firstname,
+#lastname,
+#email,
+#contact,
+#password1 {
+  width: 60%;
+  height: 18px;
+}
+#checkbox{
+  position: absolute;
+}
+#register{
+  padding: 7px;
+  margin-left: 110px;
+  background-color: blanchedalmond;
+}
+#skip{
+  margin-left: 140px;
+}
+#privacy{
+  margin-right: 0px;
+}
+#google{
+  margin-left: 50px;
+  margin-right: 20px;
+}
+#facebook{
+  margin-right: 10px;
+}
+#instagram{
+  margin-left: 10px;
+}
+#login{
+  margin-top: 20px;
+  margin-left: 180px;
+}

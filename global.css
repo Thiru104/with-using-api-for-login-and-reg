@@ -1,0 +1,19 @@
+:root {
+  /* fonts */
+  --font-lora: Lora;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 10px;
+  --font-size-base: 12px;
+  --font-size-lg: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #f8f1ff;
+  --color-gray-200: rgba(64, 58, 75, 0.6);
+
+  /* border radiuses */
+  --br-md: 7px;
+}
